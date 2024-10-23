@@ -1,0 +1,27 @@
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+#rania{
+    color: blueviolet;
+}
+
+.rahma{
+    color: blueviolet  
+}
+.water{
+
+    width: 387px;
+    height: 300px;
+
+
+}
+
+#bouhom{
+    display: flex;
+    justify-content: space-around;
+}
+
+    
